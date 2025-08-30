@@ -1,4 +1,4 @@
-//Program to demonstrate Vector class
+//Program to demonstrate Vector class, the legacy class of Java
 import java.util.Vector;
 
 public class VectorDemo {
